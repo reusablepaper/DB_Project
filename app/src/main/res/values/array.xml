@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name='단과대학'>
+        <item>간호대학</item>
+        <item>공과대학</item>
+        <item>농업생명과학대학</item>
+        <item>사범대학</item>
+        <item>사회과학대학</item>
+        <item>상과대학</item>
+        <item>생활과학대학</item>
+        <item>예술대학</item>
+        <item>의과대학</item>
+        <item>인문대학</item>
+        <item>자연과학대학</item>
+        <item>치과대학</item>
+    </string-array>
+    <string-array name="간호대">
+        <item>본관</item>
+    </string-array>
+    <string-array name="공대">
+        <item>1호관</item>
+        <item>2호관</item>
+        <item>3호관</item>
+        <item>4호관</item>
+        <item>5호관</item>
+        <item>6호관</item>
+        <item>7호관</item>
+        <item>8호관</item>
+        <item>9호관</item>
+    </string-array>
+    <string-array name="농생대">
+        <item>1호관</item>
+        <item>2호관</item>
+        <item>3호관</item>
+        <item>4호관</item>
+        <item>본관</item>
+    </string-array>
+    <string-array name="사범대">
+        <item>본관</item>
+    </string-array>
+    <string-array name="사과대">
+        <item>본관</item>
+    </string-array>
+    <string-array name="상대">
+        <item>1호관</item>
+        <item>2호관</item>
+        <item>3호관</item>
+    </string-array>
+    <string-array name="생과대">
+        <item>본관</item>
+    </string-array>
+    <string-array name="예대">
+        <item>2호관</item>
+        <item>3호관</item>
+        <item>본관</item>
+    </string-array>
+    <string-array name="의대">
+        <item>2호관</item>
+        <item>4호관</item>
+        <item>본관</item>
+    </string-array>
+    <string-array name="인문대">
+        <item>1호관</item>
+        <item>2호관</item>
+    </string-array>
+    <string-array name="자과대">
+        <item>1호관</item>
+        <item>2호관</item>
+        <item>3호관</item>
+        <item>4호관</item>
+        <item>5호관</item>
+        <item>본관</item>
+    </string-array>
+    <string-array name="치대">
+        <item>2호관</item>
+        <item>4호관</item>
+        <item>본관</item>
+    </string-array>
+</resources>
